@@ -47,6 +47,8 @@
     "gh-pages": "^1.1.0",
     "git-prepush-hook": "^1.0.2",
     "jest": "^22.4.2",
+    "material-ui": "^1.0.0-beta.42",
+    "prop-types": "^15.6.1",
     "purecss": "^1.0.0",
     "react": "^16.2.0",
     "react-addons-test-utils": "^15.6.2",

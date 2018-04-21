@@ -13,7 +13,6 @@ module.exports = {
     "react"
   ],
   "rules": {
-    "comma-dangle": ["error", "never"],
     "global-require": 0,
     "prefer-arrow-callback": 0,
     "func-names": 0,
@@ -25,6 +24,7 @@ module.exports = {
     "react/sort-comp": 0,
     "react/no-multi-comp": 0,
     "react/require-extension": 0,
-    "react/prefer-stateless-function": 0
+    "react/prefer-stateless-function": 0,
+    "react/jsx-curly-spacing": 0
   }
 };
